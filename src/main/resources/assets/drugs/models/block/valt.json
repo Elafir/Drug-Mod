@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "drugs:blocks/valt_bottom",
+    "up": "drugs:blocks/transparent",
+    "north": "drugs:blocks/valt",
+    "east": "drugs:blocks/valt",
+    "south": "drugs:blocks/valt",
+    "west": "drugs:blocks/valt",
+    "particle": "drugs:blocks/valt_bottom"
+  }
+}
