@@ -7,13 +7,31 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "valt"
+    },
+    {
+      "name": "Coca",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coca"
+    },
+    {
+      "name": "Cocaleaf",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cocaleaf"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.drugs.valt": "Valt"
+      "block.drugs.valt": "Valt",
+      "block.drugs.coca": "Coca",
+      "item.drugs.cocaleaf": "Coca Leaf"
     }
   },
   "foldersRoot": {

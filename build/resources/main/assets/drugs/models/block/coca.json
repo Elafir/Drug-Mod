@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "drugs:blocks/coca_top",
+    "particle": "drugs:blocks/coca_top"
+  }
+}
